@@ -9,6 +9,4 @@ print(S)
 print("ia ustal")
 print("Aliluia")
 #gjngww
-print("zdes oshibka ia imel v vidu 'dobila' -> 'dobilsia' [horocho]")
-print("Proizvozhu proverku na branch-venkah [pozhelayte mne udachi]")
-###
+print("Vse chego i dobila eto zubreshka komand dla git [zdorovo]")

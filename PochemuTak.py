@@ -9,3 +9,4 @@ print(S)
 print("ia ustal")
 print("Aliluia")
 #gjngww
+print("Vse chego i dobila eto zubreshka komand dla git [zdorovo]")

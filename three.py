@@ -8,3 +8,4 @@ S = 5
 print(S)
 print("ia ustal")
 print("Aliluia")
+#gjngww

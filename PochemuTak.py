@@ -10,3 +10,4 @@ print("ia ustal")
 print("Aliluia")
 #gjngww
 print("Vse chego i dobila eto zubreshka komand dla git [zdorovo]")
+print("zdes oshibka ia imel v vidu 'dobila' -> 'dobilsia' [horocho]")
